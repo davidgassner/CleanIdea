@@ -1,10 +1,7 @@
 # CleanIdea
+### Project cleaning script for IntelliJ IDEA and Android Studio
 
-Project cleaning script for IntelliJ IDEA and Android Studio
-
-David Gassner
-
-Senior Staff Instructor, LinkedIn Learning
+##### David Gassner, LinkedIn Learning
 
 To use this script, change to parent directory that contains an IntelliJ IDEA or Android Studio project
 
